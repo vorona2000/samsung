@@ -7,7 +7,7 @@ body{
     background: rgb(11, 204, 194) ;
 }
 .barner{
-    background-image: url(kartinka/maxresdefault.jpg);
+    background-image: url(maxresdefault.jpg);
     width:1280px ;
     height:720px;
 }
